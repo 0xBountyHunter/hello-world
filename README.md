@@ -1,2 +1,5 @@
 # hello-world
-My first repository, for practice! Yay!
+Hello Humans!
+
+Iam Bence, I design and develop cool websites.
+I have a dog named Abby and I like lifting weights.
